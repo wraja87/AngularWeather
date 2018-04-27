@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "ng-angular-weather-us"
+    "name": "ng-angular-weather-us_changed"
   },
   "apps": [
     {
